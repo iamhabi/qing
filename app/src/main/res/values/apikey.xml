@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clientId">795bcafda63348c0b7a03df8f42f9aa3</string>
+    <string name="redirectUri">http://com.habidev.qing/callback</string>
+    <string name="spotifyMusicUri">spotify:user:iamhabi:playlist:37i9dQZF1EQoowv2cDraCW</string>
+    <string name="weatherLocation">daejeon</string>
+    <string name="openWeatherApiKey">e70450d20e7611f29096754258ccdcbc</string>
+</resources>
